@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.c7c074c7.css",
-    "main.js": "/Portfolio/static/js/main.49436778.js",
+    "main.js": "/Portfolio/static/js/main.d4291919.js",
     "static/media/274872-digital_art-dark-Tile-cube.jpg": "/Portfolio/static/media/274872-digital_art-dark-Tile-cube.6c491ddee0b485932c25.jpg",
     "index.html": "/Portfolio/index.html",
     "main.c7c074c7.css.map": "/Portfolio/static/css/main.c7c074c7.css.map",
-    "main.49436778.js.map": "/Portfolio/static/js/main.49436778.js.map"
+    "main.d4291919.js.map": "/Portfolio/static/js/main.d4291919.js.map"
   },
   "entrypoints": [
     "static/css/main.c7c074c7.css",
-    "static/js/main.49436778.js"
+    "static/js/main.d4291919.js"
   ]
 }
